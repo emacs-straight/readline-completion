@@ -1,0 +1,2 @@
+;; Generated package description from readline-completion.el  -*- mode: lisp-data; no-byte-compile: t; lexical-binding:t -*-
+(define-package "readline-completion" "0.1.0.20261104.0" "CAPF based on GNU Readline" '((emacs "29.1") (compat "31.1")) :commit "567be45a202ee2f597fcc86cc65040bd73afb4c3" :authors '(("Augusto Stoffel" . "arstoffel@gmail.com")) :maintainer '("Augusto Stoffel" . "arstoffel@gmail.com") :keywords '("convenience" "processes") :url "https://codeberg.org/astoff/readline-completion.el")
